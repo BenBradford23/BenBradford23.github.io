@@ -60,7 +60,7 @@ header img {
     margin: 1.5em 2em 0 2em;
     border: 5px dotted blue;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px rgb(0, 26, 255);
+    box-shadow: 3px 3px 4px blue;
     padding: 1em;
  }
  footer p.copyright {
