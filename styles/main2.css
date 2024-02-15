@@ -41,7 +41,7 @@ header img {
  main h3 {
     margin: 3em 2em 1.5em;
     border: 5px double burlywood;
-    border-radius: 20 px;
+    border-radius: 20px;
     box-shadow: 3px 3px 4px 4px maroon;
     padding: 1em;
     font-size: 105%;
@@ -50,7 +50,7 @@ header img {
     margin: 1.5em 2em 1.5em;
     border: 5px dashed blue;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px 4 px gray;
+    box-shadow: 3px 3px 4px 4px gray;
     padding: 1em;
  }
  #list {
