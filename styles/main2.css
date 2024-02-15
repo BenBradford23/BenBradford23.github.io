@@ -48,7 +48,7 @@ header img {
  }
  main nav {
     margin: 1.5em 2em 1.5em;
-    border: 5px dashed yellow;
+    border: 5px dashed rgb(255, 0, 0);
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4 px gray;
     padding: 1em;
@@ -60,7 +60,7 @@ header img {
     margin: 1.5em 2em 0 2em;
     border: 5px dotted blue;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px yellow;
+    box-shadow: 3px 3px 4px rgb(0, 26, 255);
     padding: 1em;
  }
  footer p.copyright {
