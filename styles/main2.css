@@ -71,7 +71,7 @@ header img {
  }
  footer {
    clear: both;
-   border-top: 2px solid aquamarine;
+   border-top: 2px solid rgb(255, 255, 255);
  }
  footer p.copyright {
    text-align: center;
