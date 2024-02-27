@@ -53,17 +53,17 @@ header img {
    border-top: 20px dashed red;
  }
  article img {
-   float: left;
-   margin-right: 1em;
-   margin-bottom: 1em;
-   padding: 15px auto;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 15px auto;
  }
  article p::first-letter {
-   font-size: 3em;
-   font-weight: bolder;
-   font-style: italic;
-   color: blue;
-   padding: 12px auto;
+      font-size: 3em;
+      font-weight: bolder;
+      font-style: italic;
+      color: blue;
+      padding: 12px auto;
  }
  aside {
    width: 20%;
