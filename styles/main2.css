@@ -74,6 +74,7 @@ header img {
  footer {
    clear: both;
    border-top: 2px solid rgb(2, 0, 0);
+   class="copyright">&copy; 2024 Benjamin Bradford</p>
  }
  p.fixed{
    width: auto;
