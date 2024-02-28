@@ -74,7 +74,7 @@ header img {
  footer {
    clear: both;
    border-top: 2px solid rgb(2, 0, 0);
-   
+   text-align: center;
  p.fixed{
    width: auto;
    position: fixed;
