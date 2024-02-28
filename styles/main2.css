@@ -22,6 +22,7 @@ header h1 {
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
+    padding: 15px auto;
 }
 header h2 {
     font-size: 130%;
@@ -49,7 +50,7 @@ header img {
  }
  article h3 {
    column-span: all;
-   border-top: 10px dashed black
+   border-top: 
  }
  article img {
     float: left;
