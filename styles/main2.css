@@ -49,7 +49,7 @@ header img {
  }
  article h3 {
    column-span: all;
-   border-top: 20px dashed red;
+   border-top: 10px solid black
  }
  article img {
     float: left;
