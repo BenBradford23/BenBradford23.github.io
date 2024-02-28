@@ -43,13 +43,13 @@ header img {
    width: 70%;
    float: left;
    column-count: 2;
-   column-rule: 2px solid;
+   column-rule: 2px dashed;
    column-gap: 2em;
    margin-left: 2em;
  }
  article h3 {
    column-span: all;
-   border-top: 10px solid black
+   border-top: 10px dashed black
  }
  article img {
     float: left;
