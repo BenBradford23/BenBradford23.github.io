@@ -78,7 +78,7 @@ header img {
  }
  p.fixed{
    width: auto;
-   text-align: fixed;
+   text-align: right;
    bottom: 35%;
    right: 0%;
    border: 3px solid black;
