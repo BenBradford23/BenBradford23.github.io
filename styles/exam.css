@@ -26,7 +26,7 @@ body {
     font-weight: bold;
     border-right: 2px solid white;}
 #nav_menu ul li a.lastitem { border-right: none;}
-#nav_menu ul li a.current { color: brown;}
+#nav_menu ul li a.current { color: white;}
 
 article {
     clear: left;
@@ -54,7 +54,7 @@ article img {
  }
  article h2 {
    column-span: all;
-   border-top: 2px solid rgb(204, 23, 23);
+   border-top: 2px solid white, 23, 23);
  }
  aside {
     list-style: inside;
@@ -71,7 +71,7 @@ article img {
       font-size: 3em;
       font-weight: bolder;
       font-style: italic;
-      color: rgb(120, 1, 1);
+      color:greenyellow;
       padding: 12px auto;
  }
  footer {
