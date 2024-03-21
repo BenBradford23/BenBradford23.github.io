@@ -24,7 +24,7 @@ body {
     background-color: rgb(4, 20, 19);
     color: rgb(255, 255, 255);
     font-weight: bold;
-    border-right: 2px solid white;}
+    border-right: 2px solid rgb(0, 0, 0);}
 #nav_menu ul li a.lastitem { border-right: none;}
 #nav_menu ul li a.current { color: white;}
 
@@ -54,7 +54,7 @@ article img {
  }
  article h2 {
    column-span: all;
-   border-top: 2px solid white, 23, 23);
+   border-top: 2px solid rgb(0, 0, 0), 23, 23);
  }
  aside {
     list-style: inside;
@@ -76,7 +76,7 @@ article img {
  }
  footer {
    clear: both;
-   border-top: 2px solid rgb(255, 13, 255);
+   border-top: 2px solid rgb(0, 0, 0);
    text-align: center;
    font-size: 80%;
  }
