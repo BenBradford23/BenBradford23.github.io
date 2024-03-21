@@ -21,8 +21,8 @@ body {
     padding: 1em 0;
 
     text-decoration: none;
-    background-color: rgb(0, 255, 229);
-    color: azure;
+    background-color: rgb(4, 20, 19);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     border-right: 2px solid white;}
 #nav_menu ul li a.lastitem { border-right: none;}
