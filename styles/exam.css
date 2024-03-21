@@ -21,7 +21,7 @@ body {
     padding: 1em 0;
 
     text-decoration: none;
-    background-color: blue;
+    background-color: rgb(0, 255, 229);
     color: azure;
     font-weight: bold;
     border-right: 2px solid white;}
@@ -60,7 +60,7 @@ article img {
     list-style: inside;
     width: 20%;
     float: right;
-    background-color: blueviolet;
+    background-color: rgb(226, 226, 43);
     margin:auto;
     padding: 10px;
     text-align: left;
@@ -71,7 +71,7 @@ article img {
       font-size: 3em;
       font-weight: bolder;
       font-style: italic;
-      color: blue;
+      color: rgb(0, 0, 0);
       padding: 12px auto;
  }
  footer {
