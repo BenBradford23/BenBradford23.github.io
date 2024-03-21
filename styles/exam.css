@@ -1,0 +1,86 @@
+html {
+    background-image: linear-gradient(to left, white 0%, black 100%);
+}
+body {    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 90%;
+    background-color: whitesmoke;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+}  
+#nav_menu ul {list-style-type: none;}
+#nav_menu ul li {float: left;}
+#nav_menu ul li a {
+    text-align: center;
+    display: block;
+    width: 175 px;
+    padding: 1em 0;
+
+    text-decoration: none;
+    background-color: blue;
+    color: azure;
+    font-weight: bold;
+    border-right: 2px solid white;}
+#nav_menu ul li a.lastitem { border-right: none;}
+#nav_menu ul li a.current { color: brown;}
+
+article {
+    clear: left;
+}
+article ol {
+    list-style-type: upper-alpha;
+}
+aside ul {
+    list-style-type: square;
+}
+article img {
+    float:left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 15px auto;
+}
+ article {
+   clear: left;
+   width: 70%;
+   float: left;
+   column-count: 3;
+   column-rule: 2px dotted black;
+   column-gap: 2em;
+   margin-left: 2em;
+ }
+ article h2 {
+   column-span: all;
+   border-top: 2px solid black;
+ }
+ aside {
+    list-style: inside;
+    width: 20%;
+    float: right;
+    background-color: blueviolet;
+    margin:auto;
+    padding: 10px;
+    text-align: left;
+    position: sticky;
+    top: 10px
+ }
+ article p::first-letter {
+      font-size: 3em;
+      font-weight: bolder;
+      font-style: italic;
+      color: blue;
+      padding: 12px auto;
+ }
+ footer {
+   clear: both;
+   border-top: 2px solid rgb(2, 0, 0);
+   text-align: center;
+   font-size: 80%;
+ }
+ footer p.copyright {
+    text-align: center;
+    font-size: 80%;
+ }
