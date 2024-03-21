@@ -25,10 +25,10 @@ body {
     background-color: rgb(41, 0, 224);
     color: rgb(255, 255, 255);
     font-weight: bold;
-    border-right: 2px solid white;
+    border-right: 2px solid rgb(0, 0, 0);
 }
 #nav_menu ul li a.lastitem { border-right: none;}
-#nav_menu ul li a.current { color: white;}
+#nav_menu ul li a.current { color: rgb(0, 0, 0);}
 
 article {
     clear: left;
