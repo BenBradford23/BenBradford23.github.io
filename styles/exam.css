@@ -54,7 +54,7 @@ article img {
  }
  article h2 {
    column-span: all;
-   border-top: 2px solid rgb(0, 0, 0), 23, 23);
+   border-top: 2px solid rgb(0, 0, 0), (23, 23);
  }
  aside {
     list-style: inside;
