@@ -54,13 +54,13 @@ article img {
  }
  article h2 {
    column-span: all;
-   border-top: 2px solid black;
+   border-top: 2px solid rgb(204, 23, 23);
  }
  aside {
     list-style: inside;
     width: 20%;
     float: right;
-    background-color: rgb(226, 226, 43);
+    background-color: rgb(255, 255, 0);
     margin:auto;
     padding: 10px;
     text-align: left;
@@ -76,7 +76,7 @@ article img {
  }
  footer {
    clear: both;
-   border-top: 2px solid rgb(2, 0, 0);
+   border-top: 2px solid rgb(255, 13, 255);
    text-align: center;
    font-size: 80%;
  }
