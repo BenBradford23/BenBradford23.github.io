@@ -28,7 +28,7 @@ body {
     border-right: 2px solid rgb(0, 0, 0);
 }
 #nav_menu ul li a.lastitem { border-right: none;}
-#nav_menu ul li a.current { color: rgb(0, 0, 0);}
+#nav_menu ul li a.current { color: rgb(255, 255, 255);}
 
 article {
     clear: left;
