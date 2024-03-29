@@ -24,3 +24,10 @@ table.second th, table.second td {
     vertical-align: middle;
     border: 2px solid purple;
 }
+table.third {
+    border-collapse: separate;
+    border: 2px solid rgb(0, 0, 0);
+}
+table.third th {
+    background-color: salmon;
+}
