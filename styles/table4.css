@@ -29,6 +29,6 @@ table.third {
     border: 2px solid salmon;
 }
 table.third th {
-    background-color: forestgreen;
+    background-color: rgb(51, 209, 51);
 }
 
