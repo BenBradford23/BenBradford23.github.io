@@ -26,8 +26,8 @@ table.second th, table.second td {
 }
 table.third {
     border-collapse: separate;
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid salmon;
 }
 table.third th {
-    background-color: salmon;
+    background-color: rgb(117, 179, 24)
 }
